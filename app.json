@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "GQByWKQY#HDaPwm44B6o4AehF9iMC6OO6TL8Z4ZUUGF_uVP3t8sI.",
       "required": true,
       "value": ""
     },  
@@ -40,7 +40,7 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
@@ -52,13 +52,13 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -94,7 +94,7 @@
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "OWNER_REACT": {
@@ -107,17 +107,17 @@
    "ALWAYS_ONLINE": {
       "description": "Make it true if want automatic voice reply .",
       "required": false,
-      "value": "true"
+      "value": "false"
     }, 
 
   "AUTO_STATUS_REPLY": {
       "description": "Make it true if want automatic status reply .",
       "required": false,
-      "value": "true"
+      "value": "false"
     },    
 
     "BOT_NAME": {
-      "description": "write bot your name.",
+      "description": "dear life i miss you",
       "required": true,
       "value": "sᴜʙᴢᴇʀᴏ ᴍᴅ"
     }, 
@@ -134,9 +134,9 @@
       "value": "false"
     }, 
     "CAPTION": {
-      "description": "enter your caption if you want to show on menu.",
+      "description": "𝑰 𝒉𝒂𝒕𝒆 𝒎𝒚 𝒔𝒆𝒍𝒇 𝒚𝒐𝒖 𝒌𝒏𝒐𝒘 𝒘𝒉𝒚❓ 𝒀𝒆𝒔 𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝑰 𝒇𝒆𝒆𝒍 𝒕𝒉𝒂𝒕 𝑰❜𝒗𝒆 𝒏𝒆𝒗𝒆𝒓 𝒃𝒆𝒆𝒏 𝒍𝒖𝒄𝒌𝒚 𝒊𝒏 𝒂𝒏𝒚𝒕𝒉𝒊𝒏𝒈 𝒆𝒗𝒆𝒏 𝒘𝒉𝒂𝒕 𝑰 𝒈𝒐𝒕 𝒋𝒖𝒔𝒕 𝒆𝒏𝒅𝒍𝒆𝒔𝒔 𝒎𝒊𝒔𝒇𝒐𝒓𝒕𝒖𝒏𝒆 𝒂𝒏𝒅 𝒑𝒂𝒊𝒏",
       "required": true,
-      "value": "*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ sᴜʙᴢᴇʀᴏ ᴍᴅ*"
+      "value": "true"
     }, 
     "AUTO_STATUS__MSG": {
       "description": "enter your caption if you want to show on status reply.",
