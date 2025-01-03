@@ -25,17 +25,17 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------Mr Frank--------------------------------------
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "Enter Your SubZero Session ID",
-    CAPTION: process.env.CAPTION || "*©  Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ SᴜʙZᴇʀᴏ MD*",
+    SESSION_ID: process.env.SESSION_ID || "GQByWKQY#HDaPwm44B6o4AehF9iMC6OO6TL8Z4ZUUGF_uVP3t8sI",
+    CAPTION: process.env.CAPTION || "𝑰 𝒉𝒂𝒕𝒆 𝒎𝒚 𝒔𝒆𝒍𝒇 𝒚𝒐𝒖 𝒌𝒏𝒐𝒘 𝒘𝒉𝒚❓ 𝒀𝒆𝒔 𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝑰 𝒇𝒆𝒆𝒍 𝒕𝒉𝒂𝒕 𝑰❜𝒗𝒆 𝒏𝒆𝒗𝒆𝒓 𝒃𝒆𝒆𝒏 𝒍𝒖𝒄𝒌𝒚 𝒊𝒏 𝒂𝒏𝒚𝒕𝒉𝒊𝒏𝒈 𝒆𝒗𝒆𝒏 𝒘𝒉𝒂𝒕 𝑰 𝒈𝒐𝒕 𝒋𝒖𝒔𝒕 𝒆𝒏𝒅𝒍𝒆𝒔𝒔 𝒎𝒊𝒔𝒇𝒐𝒓𝒕𝒖𝒏𝒆 𝒂𝒏𝒅 𝒑𝒂𝒊𝒏",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
-    CURRENT_STATUS: process.env.CURRENT_STATUS || "false",
+    CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     MODE: process.env.MODE || "public",
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
-    AUTO_REPLY: process.env.AUTO_REPLY || "false",
+    AUTO_REPLY: process.env.AUTO_REPLY || "true",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "sᴜʙᴢᴇʀᴏ ᴍᴅ ɪs ᴏɴʟɪɴᴇ🚀",
     ANTI_LINK: process.env.ANTI_LINK || "true",
@@ -46,7 +46,7 @@ module.exports = {
     HEART_REACT: process.env.HEART_REACT || "false",
     OWNER_REACT: process.env.OWNER_REACT || "false",
     BOT_NAME: process.env.BOT_NAME || "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』",
-    AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+    AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`Status Seen By SubZero Bot 🦄 `",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
