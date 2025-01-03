@@ -35,7 +35,7 @@ module.exports = {
     MODE: process.env.MODE || "public",
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
-    AUTO_REPLY: process.env.AUTO_REPLY || "true",
+    AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "sᴜʙᴢᴇʀᴏ ᴍᴅ ɪs ᴏɴʟɪɴᴇ🚀",
     ANTI_LINK: process.env.ANTI_LINK || "true",
